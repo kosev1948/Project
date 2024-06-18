@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\bin\Debug\Texnologiq.exe.config
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\bin\Debug\Texnologiq.exe
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\bin\Debug\Texnologiq.pdb
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.Properties.Resources.resources
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.exe
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.pdb
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.csproj.Up2Date
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.Form1.resources
+C:\Users\STUDENTS-1212-5\Desktop\11D Kosev\Texnologiq\Texnologiq\obj\Debug\Texnologiq.Migrations.Fruits.resources
